@@ -1,10 +1,6 @@
 ![Alessandro Windson](./banner.png)
 
-# Olá, Mundo! 👋🌍 
-
----
-
-## Sejam Bem-Vindos... Eu sou o Alessandro Windson
+# Sejam Bem-Vindos...
 
 ---
 
