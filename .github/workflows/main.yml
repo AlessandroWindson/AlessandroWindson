@@ -1,16 +1,16 @@
-name: Generate Snake
+name: Generate Datas
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
   build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
+      # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
