@@ -1,6 +1,9 @@
 ![Alessandro Windson](./banner.png)
 
-# 🚀 Sejam Bem-Vindos ![Alt Text](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif)
+# 🚀 Sejam Bem-Vindos ![Alt Text](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30" height="30")
+
+![Estatísticas do GitHub de Alessandro](https://github-readme-stats.vercel.app/api?username=AlessandroWindson&show_icons=true&theme=radical)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroWindson&layout=compact&theme=radical)
 
 ---
 
@@ -42,12 +45,6 @@
 ### -- Outros
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>
-
-
----
-
-![Estatísticas do GitHub de Alessandro](https://github-readme-stats.vercel.app/api?username=AlessandroWindson&show_icons=true&theme=radical)
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroWindson&layout=compact&theme=radical)
 
 
 ---
