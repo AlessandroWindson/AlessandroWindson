@@ -1,6 +1,6 @@
 ![Alessandro Windson](./banner.png)
 
-# 🚀 Sejam Bem-Vindos ![Earth GIF](https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif width=auto height=150px/)
+# 🚀 Sejam Bem-Vindos...
 
 ![Estatísticas do GitHub de Alessandro](https://github-readme-stats.vercel.app/api?username=AlessandroWindson&show_icons=true&theme=radical)
 ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroWindson&layout=compact&theme=radical)
