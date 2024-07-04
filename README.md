@@ -1,6 +1,6 @@
 ![Alessandro Windson](https://github.com/AlessandroWindson/banner.png)
 
-# Olá, Mundo! 🌍🔄
+# Olá, Mundo! 🌍 
 
 ---
 
@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro%20Windson-blue)](https://www.linkedin.com/in/alessandro-windson-m-martins-41b908133/)
 [![GitHub](https://img.shields.io/badge/GitHub-Alessandro%20Windson-lightgrey)](https://github.com/AlessandroWindson)
-[![Email](https://img.shields.io/badge/Email-alessandro@example.com-red)](mailto:alessandro@example.com)
+[![Email](https://img.shields.io/badge/Email-AlessandroWindsonMM@gmail.com-red)](mailto:alessandrowindsonmm@gmail.com)
 
 ## 👨‍💻 Sobre Mim
 
