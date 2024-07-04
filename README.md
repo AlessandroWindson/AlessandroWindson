@@ -1,6 +1,6 @@
 ![Alessandro Windson](./banner.png)
 
-# 🚀 Sejam Bem-Vindos...
+# 🚀 Sejam Bem-Vindos ![Alt Text](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif)
 
 ---
 
