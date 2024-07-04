@@ -2,8 +2,6 @@
 
 # 🚀 Sejam Bem-Vindos...
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlessandroWindson&theme=gotham&locale=pt_BR)](https://git.io/streak-stats)
-![Estatísticas do GitHub de Alessandro](https://github-readme-stats.vercel.app/api?username=AlessandroWindson&show_icons=true&theme=radical)
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroWindson&layout=compact&theme=radical)
 
 ---
 
