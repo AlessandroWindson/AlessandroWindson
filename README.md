@@ -6,37 +6,37 @@
 
 ## 👨‍💻 Sobre Mim
 
-### 📖 Estudante de Análise e Desenvolvimento de Sistemas na ESBAM - Escola Superior Batista do Amazonas, no 4º período. Também sou Técnico de Informática - foco em Suporte de TI. Minha jornada é marcada pela curiosidade e pela busca constante de novos desafios e aprendizados no vasto mundo da programação.
+### -📖 Estudante de Análise e Desenvolvimento de Sistemas na ESBAM - Escola Superior Batista do Amazonas, no 4º período. Também sou Técnico de Informática - foco em Suporte de TI. Minha jornada é marcada pela curiosidade e pela busca constante de novos desafios e aprendizados no vasto mundo da programação.
 
-### 📍 Localização: Manaus-AM, estou determinado a transformar ideias em soluções práticas e inovadoras que impactam positivamente a vida das pessoas.
+### -📍 Localização: Manaus-AM, estou determinado a transformar ideias em soluções práticas e inovadoras que impactam positivamente a vida das pessoas.
 
-### 📚 Em constante aprimoramento, foco em dominar as mais recentes tecnologias e metodologias de desenvolvimento de software.
+### -📚 Em constante aprimoramento, foco em dominar as mais recentes tecnologias e metodologias de desenvolvimento de software.
 
-### 🎯 Minha meta para 2024 é consolidar meu conhecimento e contribuir significativamente para projetos desafiadores e inspiradores.
+### -🎯 Minha meta para 2024 é consolidar meu conhecimento e contribuir significativamente para projetos desafiadores e inspiradores.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-## 💻 Estou me desenvolvendo em:
+## -💻 Estou me desenvolvendo em:
 
-### Linguagens de Programação
+### -- Linguagens de Programação
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="60" height="60"/>
 
-### Frontend
+### --  Frontend
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
 
-### Backend
+### -- Backend
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="60" height="60"/>
 
-### Banco de Dados
+### -- Banco de Dados
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60"/>, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="60" height="60"/>
 
-### Outros
+### -- Outros
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="60" height="60"/> , <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60"/>
 
