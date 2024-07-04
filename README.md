@@ -18,7 +18,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-## Estou me desenvolvendo em:
+## 💻 Estou me desenvolvendo em:
 
 ### Linguagens de Programação
 
