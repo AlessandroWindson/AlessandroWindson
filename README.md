@@ -54,8 +54,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-### ![Estatísticas do GitHub de Alessandro](https://github-readme-stats.vercel.app/api?username=AlessandroWindson&show_icons=true&theme=radical)
-### ![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroWindson&layout=compact&theme=radical)
+![Estatísticas do GitHub de Alessandro](https://github-readme-stats.vercel.app/api?username=AlessandroWindson&show_icons=true&theme=radical)
+![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroWindson&layout=compact&theme=radical)
 
 ---
 
