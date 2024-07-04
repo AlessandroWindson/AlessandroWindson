@@ -1,4 +1,4 @@
-![Alessandro Windson](https://github.com/AlessandroWindson/banner.png)
+![Alessandro Windson](https://github.com/AlessandroWindson/AlessandroWindson/banner.png)
 
 # Olá, Mundo! 👋🌍 
 
