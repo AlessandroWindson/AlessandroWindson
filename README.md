@@ -2,8 +2,6 @@
 
 🚀 Sejam Bem-Vindos...
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlessandroWindson&theme=gotham&locale=pt_BR)](https://git.io/streak-stats)
-
 ---
 
 👨‍💻 Sobre Mim
@@ -17,6 +15,8 @@
 -🎯 Minha meta para 2024 é consolidar meu conhecimento e contribuir significativamente para projetos desafiadores e inspiradores.
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlessandroWindson&theme=gotham&locale=pt_BR)](https://git.io/streak-stats)
 
 🛠️ Tecnologias e Ferramentas
 
