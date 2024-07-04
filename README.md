@@ -61,7 +61,8 @@
 
 ## 🐍 Grade de Contribuições
 
-![Grade de Contribuições](https://github.com/AlessandroWindson/AlessandroWindson/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlessandroWindson/AlessandroWindson/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
