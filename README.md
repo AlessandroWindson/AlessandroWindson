@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=F7F7F7&random=false&width=435&lines=Ol%C3%A1+Mundo+%F0%9F%8C%8F!+Eu+sou+o+Alessandro+Windson+%F0%9F%92%BB%F0%9F%96%90%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 🚀 Sejam Bem-Vindos...
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlessandroWindson&theme=gotham&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
