@@ -68,9 +68,9 @@
 
 ### Estou sempre aberto a novos projetos e colaborações. Vamos juntos criar soluções incríveis que fazem a diferença!
 
-### [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro%20Windson-blue)](https://www.linkedin.com/in/alessandro-windson-m-martins-41b908133/)
-### [![GitHub](https://img.shields.io/badge/GitHub-Alessandro%20Windson-lightgrey)](https://github.com/AlessandroWindson)
-### [![Email](https://img.shields.io/badge/Email-AlessandroWindsonMM@gmail.com-red)](mailto:alessandrowindsonmm@gmail.com)
+### [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alessandro%20Windson-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alessandro-windson-m-martins-41b908133/)
+### [![GitHub](https://img.shields.io/badge/GitHub-Alessandro%20Windson-lightgrey?style=for-the-badge&logo=github)](https://github.com/AlessandroWindson)
+### [![Email](https://img.shields.io/badge/Email-alessandrowindsonmm@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:alessandrowindsonmm@gmail.com)
 
 ---
 
