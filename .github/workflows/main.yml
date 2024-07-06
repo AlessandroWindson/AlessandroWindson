@@ -14,6 +14,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      # Configurações do Git
+      - name: Set up Git
+        run: |
+          git config --global user.email "AlessandroWindsonMM@gmail.com"
+          git config --global user.name "AlessandroWindson"
+
       # Snake Animation
       - name: Generate Snake animation
         uses: Platane/snk@master
