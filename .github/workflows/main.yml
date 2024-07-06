@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,17 +10,33 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      # Checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
       # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate Snake animation
+        uses: Platane/snk@master
         with:
           github_user_name: AlessandroWindson
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Commit changes
+      - name: Commit changes
+        run: |
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Snake animation"
+
+      # Push changes
+      - name: Push changes
+        run: |
+          git push origin main
+
+      # Deploy para GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
         env:
-          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-  
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
