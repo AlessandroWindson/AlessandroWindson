@@ -13,6 +13,11 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
+      - name: Debug SSH Key
+        run: echo "$ACTIONS_DEPLOY_KEY"
+        env:
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+
       - name: Generate Snake animation
         uses: Platane/snk@master
         with:
