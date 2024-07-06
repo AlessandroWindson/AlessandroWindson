@@ -18,6 +18,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AlessandroWindson&theme=gotham&locale=pt_BR)](https://git.io/streak-stats)
 
+---
+
+![Snake animation](https://github.com/AlessandroWindson/AlessandroWindson/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 🛠️ Tecnologias e Ferramentas
 
 -💻 Estou me desenvolvendo em:
