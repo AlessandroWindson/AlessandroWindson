@@ -30,12 +30,12 @@ jobs:
           ssh-private-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
       - name: Set environment variable for commit message
-        run: echo "COMMIT_MESSAGE=Update snake animation >> $GITHUB_ENV"
+        run: echo "Update snake animation" >> $GITHUB_ENV
 
-      - name: Push generated snake animation to the output branch
+      - name: Commit and push if changes found
         run: |
           git config --global user.email "AlessandroWindsonMM@gmail.com"
           git config --global user.name "AlessandroWindson"
           git add .
-          git commit -m "$COMMIT_MESSAGE"
+          git diff --quiet && git diff --staged --quiet || git commit -m "$COMMIT_MESSAGE"
           git push origin main
