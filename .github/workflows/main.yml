@@ -30,7 +30,7 @@ jobs:
           ssh-private-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
       - name: Set environment variable for commit message
-        run: echo "Update snake animation" >> $GITHUB_ENV
+        run: echo "COMMIT_MESSAGE=Update snake animation" >> $GITHUB_ENV
 
       - name: Commit and push if changes found
         run: |
