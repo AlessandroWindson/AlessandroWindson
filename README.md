@@ -6,7 +6,7 @@
 
 👨‍💻 Sobre Mim
 
--📖 Estudante de Análise e Desenvolvimento de Sistemas na ESBAM - Escola Superior Batista do Amazonas, no 4º período. Também sou Técnico de Informática - foco em Suporte de TI. Minha jornada é marcada pela curiosidade e pela busca constante de novos desafios e aprendizados no vasto mundo da programação.
+-📖 Estudante de Análise e Desenvolvimento de Sistemas na ESBAM - Escola Superior Batista do Amazonas, no 4º período. Também sou Técnico de Informática. Minha jornada é marcada pela curiosidade e pela busca constante de novos desafios e aprendizados no vasto mundo da programação.
 
 -📍 Localização: Manaus-AM, estou determinado a transformar ideias em soluções práticas e inovadoras que impactam positivamente a vida das pessoas.
 
